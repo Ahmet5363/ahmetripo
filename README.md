@@ -1,1 +1,2 @@
 # ahmetripo
+cout<<"hello world";
